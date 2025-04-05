@@ -1,4 +1,5 @@
 # LLMPlotlyzer
+![LLMPlotlyzer](https://github.com/user-attachments/assets/91853566-798f-4d5b-bd64-f6e6bd944d83)
 LLMPlotlyzer는 **대형 언어 모델**을 활용하여 데이터를 분석하여 **시각화** 결과를 제공하는 데이터 분석/시각화 도구입니다.
 
 복잡한 코드 없이도 파일 업로드만으로 통찰력 있는 분석 결과와 그래프를 만들어보세요.
